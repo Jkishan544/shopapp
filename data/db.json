@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 10001,
+            "name":"Basics to advance",
+            "price": 99,
+            "in_stock": true
+        } , 
+        {
+            "id": 10002,
+            "name":"Framework",
+            "price": 79,
+            "in_stock": false
+        } , 
+        {
+            "id": 10003,
+            "name":"Backend developer",
+            "price": 49,
+            "in_stock": false 
+        } , 
+        
+        {
+            "id": 10004,
+            "name":"Block chain",
+            "price": 19,
+            "in_stock": false
+        } ,
+        {
+        "id": 10005,
+            "name":"Frontend",
+            "price": 89,
+            "in_stock": true
+        } 
+    ]
+
+}
